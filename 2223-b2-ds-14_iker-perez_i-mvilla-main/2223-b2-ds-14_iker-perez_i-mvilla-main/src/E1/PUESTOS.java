@@ -1,0 +1,12 @@
+package E1;
+public enum PUESTOS {
+
+    GUIONISTA,
+    MUSICO,
+    PRODUCTORES,
+    DIRECTORES,
+    INTERPRETES,
+    ESPECIALISTAS,
+    DOBLADORES
+
+}
